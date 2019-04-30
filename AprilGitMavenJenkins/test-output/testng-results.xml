@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="38" started-at="2019-04-29T11:33:55Z" finished-at="2019-04-29T11:33:55Z">
+  <suite name="Suite" duration-ms="31" started-at="2019-04-30T09:44:06Z" finished-at="2019-04-30T09:44:06Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="38" started-at="2019-04-29T11:33:55Z" finished-at="2019-04-29T11:33:55Z">
-      <class name="AprilEclipseGitMavenJenkins.GitMavenJenkins.AprilGitSampleCode">
-        <test-method status="PASS" signature="sample()[pri:0, instance:AprilEclipseGitMavenJenkins.GitMavenJenkins.AprilGitSampleCode@61dc03ce]" name="sample" duration-ms="15" started-at="2019-04-29T17:03:55Z" finished-at="2019-04-29T17:03:55Z">
+    <test name="Test" duration-ms="31" started-at="2019-04-30T09:44:06Z" finished-at="2019-04-30T09:44:06Z">
+      <class name="regressionGroup.regerssionTestCase2Test">
+        <test-method status="PASS" signature="regressionTestCase2Method()[pri:0, instance:regressionGroup.regerssionTestCase2Test@50f8360d]" name="regressionTestCase2Method" duration-ms="10" started-at="2019-04-30T15:14:06Z" finished-at="2019-04-30T15:14:06Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sample -->
-      </class> <!-- AprilEclipseGitMavenJenkins.GitMavenJenkins.AprilGitSampleCode -->
+        </test-method> <!-- regressionTestCase2Method -->
+      </class> <!-- regressionGroup.regerssionTestCase2Test -->
+      <class name="regressionGroup.regressionTestCase1Test">
+        <test-method status="PASS" signature="regressionTestCaseMethod1()[pri:0, instance:regressionGroup.regressionTestCase1Test@5cc7c2a6]" name="regressionTestCaseMethod1" duration-ms="2" started-at="2019-04-30T15:14:06Z" finished-at="2019-04-30T15:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regressionTestCaseMethod1 -->
+      </class> <!-- regressionGroup.regressionTestCase1Test -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
