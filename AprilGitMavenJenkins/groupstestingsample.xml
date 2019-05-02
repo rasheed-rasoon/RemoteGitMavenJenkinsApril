@@ -1,0 +1,12 @@
+
+
+<suite>
+    <test>
+        <classes>
+            
+            <class name="regressionGroup.regerssionTestCase2Test">
+        </classes>
+        
+    </test>
+    
+</suite>

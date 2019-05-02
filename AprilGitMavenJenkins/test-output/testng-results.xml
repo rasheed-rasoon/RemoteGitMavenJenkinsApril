@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="31" started-at="2019-04-30T09:44:06Z" finished-at="2019-04-30T09:44:06Z">
+  <suite name="Suite" duration-ms="102" started-at="2019-05-02T09:22:20Z" finished-at="2019-05-02T09:22:21Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="31" started-at="2019-04-30T09:44:06Z" finished-at="2019-04-30T09:44:06Z">
+    <test name="Test" duration-ms="102" started-at="2019-05-02T09:22:20Z" finished-at="2019-05-02T09:22:21Z">
       <class name="regressionGroup.regerssionTestCase2Test">
-        <test-method status="PASS" signature="regressionTestCase2Method()[pri:0, instance:regressionGroup.regerssionTestCase2Test@50f8360d]" name="regressionTestCase2Method" duration-ms="10" started-at="2019-04-30T15:14:06Z" finished-at="2019-04-30T15:14:06Z">
+        <test-method status="PASS" signature="regressionTestCase2Method()[pri:0, instance:regressionGroup.regerssionTestCase2Test@50f8360d]" name="regressionTestCase2Method" duration-ms="29" started-at="2019-05-02T14:52:20Z" finished-at="2019-05-02T14:52:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- regressionTestCase2Method -->
       </class> <!-- regressionGroup.regerssionTestCase2Test -->
       <class name="regressionGroup.regressionTestCase1Test">
-        <test-method status="PASS" signature="regressionTestCaseMethod1()[pri:0, instance:regressionGroup.regressionTestCase1Test@5cc7c2a6]" name="regressionTestCaseMethod1" duration-ms="2" started-at="2019-04-30T15:14:06Z" finished-at="2019-04-30T15:14:06Z">
+        <test-method status="PASS" signature="regressionTestCaseMethod1()[pri:0, instance:regressionGroup.regressionTestCase1Test@5cc7c2a6]" name="regressionTestCaseMethod1" duration-ms="5" started-at="2019-05-02T14:52:21Z" finished-at="2019-05-02T14:52:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- regressionTestCaseMethod1 -->
