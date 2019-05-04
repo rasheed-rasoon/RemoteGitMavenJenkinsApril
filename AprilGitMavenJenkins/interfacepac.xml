@@ -1,0 +1,20 @@
+
+
+<suite   name="interface suite">
+    
+    <test>
+        <classes>
+            
+            
+            <class name="interfacesSample.ChildClass"
+        </classes>
+        
+        
+        
+        
+       </test>
+    
+    
+    
+    
+    </suite>
