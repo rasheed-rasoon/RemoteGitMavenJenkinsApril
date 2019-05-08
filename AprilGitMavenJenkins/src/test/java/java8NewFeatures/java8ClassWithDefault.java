@@ -2,7 +2,6 @@ package java8NewFeatures;
 
 public class java8ClassWithDefault implements Java8InterfaceWithDefault  {
 
-	@Override
 	public void add() {
 		// TODO Auto-generated method stub
 System.out.println("method body implemented  in child class");
